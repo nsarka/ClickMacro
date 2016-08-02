@@ -1,7 +1,6 @@
 /*
 	Macro bot. Written July 29, 2016 to August 1, 2016.
 	Instructions written in the program.
-	- Rick
 */
 
 #include <iostream>
@@ -37,7 +36,7 @@ POINT GetCursorPoint()
 
 void UserInput()
 {
-	std::cout << "Rick's Bot.\nEmail: nsarka00@gmail.com\n" << std::endl;
+	std::cout << "ClickMacro.\nEmail: nsarka00@gmail.com\n" << std::endl;
 	std::cout << "* R (F1) - record\n* P - play\n* L - loop play\n* C - clear\n* any other key (F2) - idle/stop" << std::endl;
 	std::cout << "\nRecording over an existing script will add clicks to the end of the list.\n\n" << std::endl;
 
