@@ -1,5 +1,5 @@
 /*
-	Macro bot. Written July 29, 2016 to August 1, 2016.
+	ClickMacro. Written July 29, 2016 to August 1, 2016.
 	Instructions written in the program.
 */
 
