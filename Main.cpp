@@ -24,8 +24,8 @@ struct Step
 	int wait_time;
 };
 
-static int state = 0;
-static bool loop = false;
+int state = 0;
+bool loop = false;
 
 POINT GetCursorPoint()
 {
